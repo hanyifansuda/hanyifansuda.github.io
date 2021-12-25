@@ -1,4 +1,4 @@
-# Welcome to My Pages
+# Welcome to My Page
 
 ## About Me
 
