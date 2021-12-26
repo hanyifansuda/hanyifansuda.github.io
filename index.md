@@ -1,6 +1,6 @@
 ## About Me
 
-Yifan Han is now an undergraduate student at [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm), under the advisor of [Prof. He Huang](http://home.ustc.edu.cn/~huang83/), [Prof. Yu-E Sun](http://web.suda.edu.cn/sunye12/) and [Dr. Yang Du](http://web.suda.edu.cn/dy/). **He will start his graduate studies in Sep. 2022.** 
+Yifan Han is now an undergraduate student at Network Computing Laboratory, [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm), under the advisor of [Prof. He Huang](http://home.ustc.edu.cn/~huang83/), [Prof. Yu-E Sun](http://web.suda.edu.cn/sunye12/) and [Dr. Yang Du](http://web.suda.edu.cn/dy/). **He will start his graduate studies in Sep. 2022.** 
 
 ## Contact
 
@@ -16,4 +16,11 @@ yfhan@stu.suda.edu.cn
 
 ## Awards
 
-- To be continued
+- Outstanding student leaders, Soochow University (2019-2020, 2020-2021)
+- Zhongyuan-Keda Scholarship, Soochow University (2020-2021)
+- Learning Excellence Award, Soochow University (2018-2019, 2019-2020, 2020-2021)
+
+## Experience
+
+- Undergraduate Student, AI CLass, School of Computer Science and Techinology, Soochow University (2018.09-2022.06)
+- Graduate Student, Network Computing Laboratory, School of Computer Science and Techinology, Soochow University (2022.09-)
