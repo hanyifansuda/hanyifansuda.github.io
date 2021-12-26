@@ -16,9 +16,9 @@ yfhan@stu.suda.edu.cn
 
 ## Awards
 
-- Outstanding student leaders, Soochow University (2019-2020, 2020-2021)
-- Zhongyuan-Keda Scholarship, Soochow University (2020-2021)
-- Learning Excellence Award, Soochow University (2018-2019, 2019-2020, 2020-2021)
+- Outstanding student leaders （优秀学生干部）, Soochow University (2019-2020, 2020-2021)
+- Zhongyuan-Keda Scholarship （中源科达奖学金）, Soochow University (2020-2021)
+- Learning Excellence Award （学习优秀奖）, Soochow University (2018-2019, 2019-2020, 2020-2021)
 
 ## Experience
 
