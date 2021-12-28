@@ -23,4 +23,4 @@ yfhan@stu.suda.edu.cn
 ## Experience
 
 - Undergraduate Student, AI CLass, School of Computer Science and Techinology, Soochow University (2018.09-2022.06)
-- Graduate Student, Network Computing Laboratory, School of Computer Science and Techinology, Soochow University (2022.09-)
+- Graduate Student, Network Computing Laboratory, School of Computer Science and Techinology, Soochow University (2022.09- )
