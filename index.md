@@ -24,3 +24,6 @@ yfhan@stu.suda.edu.cn
 
 - Undergraduate Student, AI CLass, School of Computer Science and Techinology, Soochow University (2018.09-2022.06)
 - Graduate Student, Network Computing Laboratory, School of Computer Science and Techinology, Soochow University (2022.09- )
+
+## Some Pictures
+![test](https://github.com/hanyifansuda/hanyifansuda.github.io/raw/main/pictures/test.png) 
