@@ -31,7 +31,7 @@ yfhan@stu.suda.edu.cn
 ## Some Pictures
 
 - Wearing the Bachelor Gown
-![undergraduate1](https://github.com/hanyifansuda/hanyifansuda.github.io/raw/main/pictures/undergraduate1.jpg) 
+![undergraduate1](https://github.com/hanyifansuda/hanyifansuda.github.io/raw/main/pictures/undergraduate1.jpg =400x300) 
 
 - Turn the tassel by my mentor Prof. He Huang
-![undergraduate2](https://github.com/hanyifansuda/hanyifansuda.github.io/raw/main/pictures/undergraduate2.jpg) 
+![undergraduate2](https://github.com/hanyifansuda/hanyifansuda.github.io/raw/main/pictures/undergraduate2.jpg =400x300) 
