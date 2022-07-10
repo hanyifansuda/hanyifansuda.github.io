@@ -28,8 +28,8 @@ yfhan@stu.suda.edu.cn
 - 2022.09-Present: Graduate Student, Software Engineering, [SUDA Intelligent Network and System Group (INS)](http://home.ustc.edu.cn/~jannr/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm)
 - 2018.09-2022.06: B.S., [Computer Science and Technology (Artificial Intelligence)](http://aiclass.jwb.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm)
 
-## Some Pictures
-
+<!-- ## Some Pictures
+ -->
 <!-- - Wearing the Bachelor Gown -->
 <!-- ![undergraduate1](https://github.com/hanyifansuda/hanyifansuda.github.io/raw/main/pictures/undergraduate1.jpg =400x300) 
  -->
