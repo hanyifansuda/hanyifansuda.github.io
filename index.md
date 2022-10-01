@@ -1,6 +1,6 @@
 ## About Me
 
-Yifan Han is now an graduate student at [SUDA Intelligent Network and Big Data Analytics Lab](http://ins.scst.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm), under the advisor of [Prof. He Huang](http://web.suda.edu.cn/huangh/), [Prof. Yu-E Sun](http://web.suda.edu.cn/sunye12/) and [Dr. Yang Du](http://web.suda.edu.cn/dy/). 
+Yifan Han is now a postgraduate at [SUDA Intelligent Network and Big Data Analytics Lab](http://ins.scst.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm), under the advisor of [Prof. He Huang](http://web.suda.edu.cn/huangh/), [Prof. Yu-E Sun](http://web.suda.edu.cn/sunye12/) and [Dr. Yang Du](http://web.suda.edu.cn/dy/). 
 
 
 ## Contact
