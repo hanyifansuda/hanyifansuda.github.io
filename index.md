@@ -11,6 +11,7 @@ yfhan@stu.suda.edu.cn
 ## Research Interests
 
 - Traffic Measurement
+- Programmable Network
 - Software-Defined Networking (SDN)
 - Internet of Things (IoT)
 - Machine Learning
@@ -36,7 +37,8 @@ yfhan@stu.suda.edu.cn
 
 ## Awards & Honors
 
-- Special scholarship of study for postgraduate student (2022)
+- Outstanding Postgraduate of Soochow University (2023)
+- Special Scholarship of Study for Postgraduate of Soochow University (2023)
 - Excellent Graduate of Soochow University (2022)
 - Excellent Graduation Design of Soochow University (2022)
 - Outstanding student leaders in Soochow University (2019-2020, 2020-2021)
