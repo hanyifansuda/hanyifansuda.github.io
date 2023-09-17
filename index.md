@@ -22,9 +22,11 @@ yfhan@stu.suda.edu.cn
 
 ### Conferences
 
-- [1] __Yifan Han__, Yang Du, Shiping Chen, He Huang and Yu-E Sun. ["TSD3: A Novel Time-series-based Solution for DDoS Attack Detection"](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_25). In Proceedings of the 6th APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), Nanjing, China, November 25-27, 2022. (Acceptance rate: 75/297 = 25.3%)
+- [1] 杨东阳，__韩轶凡__，孙玉娥，李姝，杜扬，黄河. 利用深度学习的高速网络流基数估计算法. 小型微型计算机系统. 2023, 44(9): 2068-2074. (High-speed Network Flow Cardinality Estimation Algorithm Using Deep Learning. Journal of Chinese Computer Systems. 2023, 44(9): 2068-2074)
 
-- [2] Dongyang Yang, __Yifan Han (co-first author)__, Yang Du, He Huang, Yu-E Sun and Shigang Chen. ["LSE: A Learning-based Per-flow Spread Estimation Framework for Network Data Streams"](https://ieeexplore.ieee.org/abstract/document/9798225/). In Proceedings of the IEEE INFOCOM 2022-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1-6). IEEE.
+- [2] __Yifan Han__, Yang Du, Shiping Chen, He Huang and Yu-E Sun. ["TSD3: A Novel Time-series-based Solution for DDoS Attack Detection"](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_25). In Proceedings of the 6th APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), Nanjing, China, November 25-27, 2022. (Acceptance rate: 75/297 = 25.3%)
+
+- [3] Dongyang Yang, __Yifan Han (co-first author)__, Yang Du, He Huang, Yu-E Sun and Shigang Chen. ["LSE: A Learning-based Per-flow Spread Estimation Framework for Network Data Streams"](https://ieeexplore.ieee.org/abstract/document/9798225/). In Proceedings of the IEEE INFOCOM 2022-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1-6). IEEE.
 
 
 ## Scientific Research Projects
