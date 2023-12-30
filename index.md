@@ -22,7 +22,7 @@ yfhan@stu.suda.edu.cn
 
 ### Conferences
 
-- [1] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. “Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”. In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF C, __Best Paper Award (2/377)__)
+- [1] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. “Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”. In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF C, __Best Paper Award (2/377)__, Acceptance rate: 75/377 = 19.9%)
 
 - [2] Qian Zhou, Yu-E Sun, He Huang and __Yifan Han__. “CBA Sketch: A Sketching Algorithm Mining Persistent Batches in Data Streams”. In Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Tianjin, China, October 20~22, 2023. (CCF C)
 
@@ -43,14 +43,16 @@ yfhan@stu.suda.edu.cn
 
 ## Awards & Honors
 
-- Maiweikeji Scholarship in Soochow University (2023-202)
-- First Prize Scholarship for Postgraduate of Soochow University (2023-2024)
-- Outstanding Postgraduate of Soochow University (2023)
-- Special Scholarship for Postgraduate of Soochow University (2022-2023)
-- Excellent Graduate of Soochow University (2022)
-- Excellent Graduation Design of Soochow University (2022)
+- Maiweikeji Scholarship (迈为科技奖学金) in Soochow University (2023-2024)
+- First Prize Scholarship in Soochow University (2023-2024)
+- __Outstanding Postgraduate of Soochow University__ (2022-2023)
+- Top-tier Scholarship in Soochow University (2022-2023)
+
+- __Outstanding Undergraduate Graduates of Soochow University__ (2022)
+- __Excellent Graduation Design Team of Jiangsu Province__ (2022)
+- __Outstanding Graduation Thesis of Soochow University__ (2022)
 - Outstanding student leaders in Soochow University (2019-2020, 2020-2021)
-- Zhongyuan-Keda Scholarship in Soochow University (2020-2021)
+- Zhongyuan-Keda Scholarship (中源-科达奖学金) in Soochow University (2020-2021)
 - Outstanding Learning Scholarship in Soochow University (2018-2019, 2019-2020, 2020-2021)
 
 
