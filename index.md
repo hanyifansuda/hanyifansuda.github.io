@@ -64,6 +64,8 @@ yfhan@stu.suda.edu.cn
 
 ## Certificate
 
+![avatar](/BestPaper.JPG)
+
 ![avatar](/Maiweikeji.PNG)
 
 ![avatar](/Edge_Smart.jpeg)
