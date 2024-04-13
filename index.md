@@ -22,9 +22,9 @@ yfhan@stu.suda.edu.cn
 
 ### Conferences
 
-- [1] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. “Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”. In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF C, __Best Paper Award (2/377)__, Acceptance rate: 75/377 = 19.9%)
+- [1] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. [“Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”](https://ieeexplore.ieee.org/document/10491870). In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF C, __Best Paper Award (2/377)__, Acceptance rate: 75/377 = 19.9%)
 
-- [2] Qian Zhou, Yu-E Sun, He Huang and __Yifan Han__. “CBA Sketch: A Sketching Algorithm Mining Persistent Batches in Data Streams”. In Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Tianjin, China, October 20~22, 2023. (CCF C)
+- [2] Qian Zhou, Yu-E Sun, He Huang and __Yifan Han__. [“CBA Sketch: A Sketching Algorithm Mining Persistent Batches in Data Streams”](https://link.springer.com/chapter/10.1007/978-981-97-0811-6_7). In Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Tianjin, China, October 20~22, 2023. (CCF C)
 
 - [3] 杨东阳，__韩轶凡__，孙玉娥，李姝，杜扬，黄河. “利用深度学习的高速网络流基数估计算法”. 小型微型计算机系统. 2023, 44(9): 2068-2074. (High-speed Network Flow Cardinality Estimation Algorithm Using Deep Learning. Journal of Chinese Computer Systems. 2023, 44(9): 2068-2074)
 
