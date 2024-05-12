@@ -1,6 +1,6 @@
 ## About Me
 
-[Yifan Han](https://scholar.google.com/citations?user=M7MAIlgAAAAJ&hl=en) is now a postgraduate at [SUDA Intelligent Network and Big Data Analytics Lab](http://ins.scst.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm), under the advisor of [Prof. He Huang](http://web.suda.edu.cn/huangh/), [Prof. Yu-E Sun](http://web.suda.edu.cn/sunye12/) and [Dr. Yang Du](http://web.suda.edu.cn/dy/). 
+[Yifan Han](https://scholar.google.com/citations?user=M7MAIlgAAAAJ&hl=en) is now a Ph.D Student (the successive postgraduate and doctoral programs of study) at [SUDA Intelligent Network and Big Data Analytics Lab](http://ins.scst.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm), under the advisor of [Prof. He Huang](http://web.suda.edu.cn/huangh/), [Prof. Yu-E Sun](http://web.suda.edu.cn/sunye12/) and [Dr. Yang Du](http://web.suda.edu.cn/dy/).
 
 
 ## Contact
@@ -58,6 +58,6 @@ yfhan@stu.suda.edu.cn
 
 ## Education
 
-- 2022.09-Present: Graduate Student, Software Engineering, [SUDA Intelligent Network and Big Data Analytics Lab](http://ins.scst.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm)
+- 2022.09-Present: Ph.D Student, Computer Science and Technology (the successive postgraduate and doctoral programs of study), [SUDA Intelligent Network and Big Data Analytics Lab](http://ins.scst.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm)
 - 2018.09-2022.06: B.E., [Computer Science and Technology (Artificial Intelligence)](http://aiclass.jwb.suda.edu.cn/), [School of Computer Science and Techinology, Soochow University](http://scst.suda.edu.cn/main.htm)
 
