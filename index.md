@@ -21,17 +21,19 @@ yfhan@stu.suda.edu.cn
 ## Publications
 
 - [1] __Yifan Han__, He Huang, Yu-E Sun, Jia Liu and Shigang Chen. [“Expiration filter: Mining recent heavy flows in high-speed networks
-”](https://doi.org/10.1016/j.comnet.2024.111010). Computer Networks. 2025, Volume 258, 111010. (CCF-B, SCI-2)
+”](https://doi.org/10.1016/j.comnet.2024.111010). Computer Networks. 2025, Volume 258, 111010. (CCF-B)
 
-- [2] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. [“Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”](https://ieeexplore.ieee.org/document/10491870). In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF C, __Best Paper Award (2/377)__, Acceptance rate: 75/377 = 19.9%)
+- [2] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. [“Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”](https://ieeexplore.ieee.org/document/10491870). In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF C, __Best Paper Award (2/377)__)
 
-- [3] Qian Zhou, Yu-E Sun, He Huang and __Yifan Han__. [“CBA Sketch: A Sketching Algorithm Mining Persistent Batches in Data Streams”](https://link.springer.com/chapter/10.1007/978-981-97-0811-6_7). In Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Tianjin, China, October 20~22, 2023. (CCF C)
+- [3] __Yifan Han__, Yang Du, Shiping Chen, He Huang and Yu-E Sun. ["TSD3: A Novel Time-series-based Solution for DDoS Attack Detection"](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_25). In Proceedings of the 6th APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), Nanjing, China, November 25-27, 2022. (CCF-C)
 
-- [4] 杨东阳，__韩轶凡__，孙玉娥，李姝，杜扬，黄河. “利用深度学习的高速网络流基数估计算法”. 小型微型计算机系统. 2023, 44(9): 2068-2074. (High-speed Network Flow Cardinality Estimation Algorithm Using Deep Learning. Journal of Chinese Computer Systems. 2023, 44(9): 2068-2074)
+- [4] Xiaocan Wu, He Huang, Yang Du, Yu-E Sun, and __Yifan Han__. "FEA-Sketch: flow entries assisted sketch for heavy flow detection in software-defined networking." Science China Information Sciences 68, no. 3 (2025): 132103. (CCF-A)
 
-- [5] __Yifan Han__, Yang Du, Shiping Chen, He Huang and Yu-E Sun. ["TSD3: A Novel Time-series-based Solution for DDoS Attack Detection"](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_25). In Proceedings of the 6th APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), Nanjing, China, November 25-27, 2022. (CCF C, Acceptance rate: 75/297 = 25.3%)
+- [5] Qian Zhou, Yu-E Sun, He Huang and __Yifan Han__. [“CBA Sketch: A Sketching Algorithm Mining Persistent Batches in Data Streams”](https://link.springer.com/chapter/10.1007/978-981-97-0811-6_7). In Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Tianjin, China, October 20~22, 2023. (CCF-C)
 
 - [6] Dongyang Yang, __Yifan Han (co-first author)__, Yang Du, He Huang, Yu-E Sun and Shigang Chen. ["LSE: A Learning-based Per-flow Spread Estimation Framework for Network Data Streams"](https://ieeexplore.ieee.org/abstract/document/9798225/). In Proceedings of the IEEE INFOCOM 2022-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1-6). IEEE.
+
+- [7] 杨东阳，__韩轶凡__，孙玉娥，李姝，杜扬，黄河. “利用深度学习的高速网络流基数估计算法”. 小型微型计算机系统. 2023, 44(9): 2068-2074. (High-speed Network Flow Cardinality Estimation Algorithm Using Deep Learning. Journal of Chinese Computer Systems. 2023, 44(9): 2068-2074)
 
 
 ## Scientific Research Projects
@@ -39,8 +41,8 @@ yfhan@stu.suda.edu.cn
 - Innovation and Entrepreneurship Training Program for College Students in Jiangsu Province ([202010285096Y](https://jsgjc.jse.edu.cn/cxcypt/cxcypt/Index/ItemDetail?id=e406130a-0c2c-42de-88b2-525acc0efeb1&_pageIndex=15)), PI, Research on Filtering and Defense Technology of Low-Speed DDoS Attack, 08/18/2020 - 06/08/2022.
 
 ## Intellectual Property Rights
-- 专利 《一种低速DDoS攻击检测方法、系统及相关设备》
-- 软件著作权 “基于多特征的流级别DDoS攻击检测系统”
+- 专利 《一种低速DDoS攻击检测方法、系统及相关设备》 (Patent ``low-speed DDoS attack detection method, system and related equipment'')
+- 软件著作权 “基于多特征的流级别DDoS攻击检测系统” (Software Copyright ``Flow-level DDoS attack detection system based on multiple features'')
 
 ## Awards & Honors
 
