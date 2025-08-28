@@ -44,6 +44,10 @@ yfhan@stu.suda.edu.cn
 - 专利 《一种低速DDoS攻击检测方法、系统及相关设备》 (Patent ``low-speed DDoS attack detection method, system and related equipment'')
 - 软件著作权 “基于多特征的流级别DDoS攻击检测系统” (Software Copyright ``Flow-level DDoS attack detection system based on multiple features'')
 
+## Service
+
+- [Communication Engineering and Network Technology](https://www.hillpublisher.com/Journals/cent/) (Early-Career Editor)
+
 ## Awards & Honors
 
 - Maiweikeji Scholarship (迈为科技奖学金) in Soochow University (2023-2024)
