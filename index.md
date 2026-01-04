@@ -47,7 +47,6 @@ yfhan@stu.suda.edu.cn
 
 ## Service
 
-- [Communication Engineering and Network Technology](https://www.hillpublisher.com/Journals/cent/) (Early-Career Editor)
 
 ## Awards & Honors
 
