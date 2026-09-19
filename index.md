@@ -21,23 +21,25 @@ yfhan@stu.suda.edu.cn
 
 ## Publications
 
-- [1] __Yifan Han__, Yang Du, Yu-E Sun, He Huang, and Xiaocan Wu. “SketchBuilder: Learning-Augmented Proactive Sketch Construction for Heavy Hitter Detection in Data Streams”. KDD 2026. (CCF A)
+- [1] __Yifan Han__, Yang Du, Yu-E Sun, He Huang, and Xiaocan Wu. [“SketchBuilder: Learning-Augmented Proactive Sketch Construction for Heavy Hitter Detection in Data Streams”](https://dl.acm.org/doi/abs/10.1145/3770855.3817652). In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2026. (CCF-A)
 
-- [2] __Yifan Han__, He Huang, Yu-E Sun, Jia Liu, Yang Du and Shigang Chen. [“FuseMeter: An Efficient Framework for Generic Per-Flow Traffic Measurement”](). Information Fusion 2026. (SCI Q1 Top, IF=15.5)
+- [2] __Yifan Han__, He Huang, Yu-E Sun, Jia Liu, Yang Du and Shigang Chen. [“FuseMeter: An Efficient Framework for Generic Per-Flow Traffic Measurement”](https://www.sciencedirect.com/science/article/pii/S1566253525011273). Information Fusion 2026. (SCI Q1 Top, IF=15.5)
 
-- [3] __Yifan Han__, He Huang, Yu-E Sun, Jia Liu and Shigang Chen. [“Expiration filter: Mining recent heavy flows in high-speed networks”](https://doi.org/10.1016/j.comnet.2024.111010). Computer Networks. 2025, Volume 258, 111010. (CCF-B)
+- [3] He Huang, __Yifan Han (First Student Author)__, Chen Lou, Yang Du, Yu-E Sun, Jia Liu, Zhongjun Qiu, Fu Xiao, Guoju Gao, and Shigang Chen. “UniSketch: A Unified Sketch for Efficient General Flow Spread Measurement”. ACM SIGOPS Annual Technical Conference (ATC '26) 2026. (CCF-A)
 
-- [4] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. [“Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”](https://ieeexplore.ieee.org/document/10491870). In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF C, __Best Paper Award (2/377)__)
+- [4] __Yifan Han__, He Huang, Yu-E Sun, Jia Liu and Shigang Chen. [“Expiration filter: Mining recent heavy flows in high-speed networks”](https://doi.org/10.1016/j.comnet.2024.111010). Computer Networks. 2025, Volume 258, 111010. (CCF-B)
 
-- [5] __Yifan Han__, Yang Du, Shiping Chen, He Huang and Yu-E Sun. ["TSD3: A Novel Time-series-based Solution for DDoS Attack Detection"](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_25). In Proceedings of the 6th APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), Nanjing, China, November 25-27, 2022. (CCF-C)
+- [5] __Yifan Han__, He Huang, Yang Du, Yu-E Sun, Jia Liu and Hongli Xu. [“Hierarchical Sketch: An Efficient Solution for Threshold-*t* Flows Measurement in High-Speed Networks”](https://ieeexplore.ieee.org/document/10491870). In Proceedings of the 21st IEEE Intl Conf on Parallel & Distributed Processing with Applications (ISPA), Wuhan, China, December 21~24, 2023. (CCF-C, __Best Paper Award (2/377)__)
 
-- [6] Xiaocan Wu, He Huang, Yang Du, Yu-E Sun, and __Yifan Han__. "FEA-Sketch: flow entries assisted sketch for heavy flow detection in software-defined networking." Science China Information Sciences 68, no. 3 (2025): 132103. (CCF-A)
+- [6] __Yifan Han__, Yang Du, Shiping Chen, He Huang and Yu-E Sun. ["TSD3: A Novel Time-series-based Solution for DDoS Attack Detection"](https://link.springer.com/chapter/10.1007/978-3-031-25201-3_25). In Proceedings of the 6th APWeb-WAIM International Joint Conference on Web and Big Data (APWeb-WAIM), Nanjing, China, November 25-27, 2022. (CCF-C)
 
-- [7] Qian Zhou, Yu-E Sun, He Huang and __Yifan Han__. [“CBA Sketch: A Sketching Algorithm Mining Persistent Batches in Data Streams”](https://link.springer.com/chapter/10.1007/978-981-97-0811-6_7). In Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Tianjin, China, October 20~22, 2023. (CCF-C)
+- [7] Xiaocan Wu, He Huang, Yang Du, Yu-E Sun, and __Yifan Han__. "FEA-Sketch: flow entries assisted sketch for heavy flow detection in software-defined networking." Science China Information Sciences 68, no. 3 (2025): 132103. (CCF-A)
 
-- [8] Dongyang Yang, __Yifan Han (co-first author)__, Yang Du, He Huang, Yu-E Sun and Shigang Chen. ["LSE: A Learning-based Per-flow Spread Estimation Framework for Network Data Streams"](https://ieeexplore.ieee.org/abstract/document/9798225/). In Proceedings of the IEEE INFOCOM 2022-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1-6). IEEE.
+- [8] Qian Zhou, Yu-E Sun, He Huang and __Yifan Han__. [“CBA Sketch: A Sketching Algorithm Mining Persistent Batches in Data Streams”](https://link.springer.com/chapter/10.1007/978-981-97-0811-6_7). In Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), Tianjin, China, October 20~22, 2023. (CCF-C)
 
-- [9] 杨东阳，__韩轶凡__，孙玉娥，李姝，杜扬，黄河. “利用深度学习的高速网络流基数估计算法”. 小型微型计算机系统. 2023, 44(9): 2068-2074. (High-speed Network Flow Cardinality Estimation Algorithm Using Deep Learning. Journal of Chinese Computer Systems. 2023, 44(9): 2068-2074)
+- [9] Dongyang Yang, __Yifan Han (co-first author)__, Yang Du, He Huang, Yu-E Sun and Shigang Chen. ["LSE: A Learning-based Per-flow Spread Estimation Framework for Network Data Streams"](https://ieeexplore.ieee.org/abstract/document/9798225/). In Proceedings of the IEEE INFOCOM 2022-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS) (pp. 1-6). IEEE.
+
+- [10] 杨东阳，__韩轶凡__，孙玉娥，李姝，杜扬，黄河. “利用深度学习的高速网络流基数估计算法”. 小型微型计算机系统. 2023, 44(9): 2068-2074. (High-speed Network Flow Cardinality Estimation Algorithm Using Deep Learning. Journal of Chinese Computer Systems. 2023, 44(9): 2068-2074)
 
 
 ## Scientific Research Projects
